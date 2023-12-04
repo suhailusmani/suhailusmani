@@ -8,21 +8,6 @@
 
 I'm a recent graduate with a Bachelor's degree in Computer Science & Engineering, specializing in Cloud Technology and Information Security. My goal is to contribute my skills and expertise to a dynamic and technology-driven organization.
 
-## Education
-
-- **Bachelor of Technology in Computer Science & Engineering**
-  - Integral University, Lucknow, India
-  - Specialization: Cloud Technology & Information Security
-  - Graduation: 2018 – 2022
-
-- **Intermediate**
-  - Noorul Hasan Memorial Inter College, Gonda, India
-  - Year of Passing: 2017 – 2018
-
-- **High School**
-  - MJ Activity Senior Secondary School, Utraula, India
-  - Year of Passing: 2013 – 2014
-
 ## Projects
 
 ### Movie Description App (04/2022 – 05/2022)
