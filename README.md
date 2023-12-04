@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Suhail Saeed Usmani, a Full Stack Web Developer
 
-📧 Email: suhailsaeedme@gmail.com | 📱 Phone: +91-7860078253
-
-📍 Location: Lucknow, India
+📧 Email: suhailsaeedme@gmail.com
 
 ## Let's Connect!
 
