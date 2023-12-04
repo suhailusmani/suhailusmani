@@ -4,21 +4,6 @@
 
 📍 Location: Lucknow, India
 
-## About Me
-
-I'm a recent graduate with a Bachelor's degree in Computer Science & Engineering, specializing in Cloud Technology and Information Security. My goal is to contribute my skills and expertise to a dynamic and technology-driven organization.
-
-## Skills
-
-- .NET Framework
-- Web application development using the .NET framework
-- Entity Framework (Core)
-- Data migration using Microsoft Entity Framework
-- Python (Standard Python 3)
-- SQL Server: Database management using Microsoft SQL Server
-- Web Technologies: CSS, JavaScript, Bootstrap, JQuery (basic knowledge)
-- Selenium: Python Browser Automation
-
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/suhail-usmani5/)
