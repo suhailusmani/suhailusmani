@@ -1,37 +1,55 @@
-# Hi there! 👋 I'm [Suhail Saeed Usmani]
+# Hi there! 👋 I'm Suhail Saeed Usmani, a Full Stack Web Developer
 
-I'm a passionate Full Stack Web Developer with a love for creating robust and user-friendly web applications. Here's a bit about me:
+📧 Email: suhailsaeedme@gmail.com | 📱 Phone: +91-7860078253
 
-- 💻 I specialize in: HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB, and more.
-- 🌐 I enjoy working on both the frontend and backend, ensuring a seamless user experience.
-- 🚀 I'm constantly learning and staying up-to-date with the latest technologies in web development.
+📍 Location: Lucknow, India
 
-## 📚 Skills
+## About Me
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Others:** Git, RESTful APIs
+I'm a recent graduate with a Bachelor's degree in Computer Science & Engineering, specializing in Cloud Technology and Information Security. My goal is to contribute my skills and expertise to a dynamic and technology-driven organization.
 
-## 🌱 I’m Currently Learning
+## Education
 
-I'm always looking to expand my skill set. Currently, I'm diving into [insert what you're currently learning].
+- **Bachelor of Technology in Computer Science & Engineering**
+  - Integral University, Lucknow, India
+  - Specialization: Cloud Technology & Information Security
+  - Graduation: 2018 – 2022
 
-## 🔧 Tools & Technologies
+- **Intermediate**
+  - Noorul Hasan Memorial Inter College, Gonda, India
+  - Year of Passing: 2017 – 2018
 
-- **IDE:** Visual Studio Code
-- **Version Control:** Git, GitHub
-- **Database Management:** MongoDB Compass
-- **Design:** Figma
+- **High School**
+  - MJ Activity Senior Secondary School, Utraula, India
+  - Year of Passing: 2013 – 2014
 
-## 🤝 Let's Collaborate
+## Projects
 
-I'm open to collaboration on projects related to [insert collaboration interests]. If you have an exciting project or idea, let's connect!
+### Movie Description App (04/2022 – 05/2022)
 
-## 📫 How to Reach Me
+A React.js based movie description app that fetches data from the OMDB API using the HTTP client Axios. It renders descriptions and images of trending movies on Netflix.
 
-- Email: [your@email.com]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+## Professional Experience
 
-Feel free to explore my repositories and reach out for any questions or discussions. Let's build something amazing together! 🚀
+### Web Developer Intern at Criterion Tech Pvt. Ltd. (06/2022 – Present)
+
+- Working on Front End development using React.js.
+- Developing .NET API and working with Microsoft SQL Database.
+
+## Skills
+
+- .NET Framework
+- Web application development using the .NET framework
+- Entity Framework (Core)
+- Data migration using Microsoft Entity Framework
+- Python (Standard Python 3)
+- SQL Server: Database management using Microsoft SQL Server
+- Web Technologies: CSS, JavaScript, Bootstrap, JQuery (basic knowledge)
+- Selenium: Python Browser Automation
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/suhail-usmani5/)
+- [GitHub](https://github.com/suhailusmani)
+
+Feel free to reach out for collaboration, questions, or discussions. Let's build something amazing together! 🚀
