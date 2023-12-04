@@ -8,19 +8,6 @@
 
 I'm a recent graduate with a Bachelor's degree in Computer Science & Engineering, specializing in Cloud Technology and Information Security. My goal is to contribute my skills and expertise to a dynamic and technology-driven organization.
 
-## Projects
-
-### Movie Description App (04/2022 – 05/2022)
-
-A React.js based movie description app that fetches data from the OMDB API using the HTTP client Axios. It renders descriptions and images of trending movies on Netflix.
-
-## Professional Experience
-
-### Web Developer Intern at Criterion Tech Pvt. Ltd. (06/2022 – Present)
-
-- Working on Front End development using React.js.
-- Developing .NET API and working with Microsoft SQL Database.
-
 ## Skills
 
 - .NET Framework
